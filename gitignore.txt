@@ -34,5 +34,5 @@
 #Custom
 
 build
-.vscode
-.vs
+/.vscode
+/.vs
