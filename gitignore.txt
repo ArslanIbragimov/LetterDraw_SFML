@@ -30,9 +30,3 @@
 *.exe
 *.out
 *.app
-
-#Custom
-
-build
-.vscode
-.vs
